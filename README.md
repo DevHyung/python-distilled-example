@@ -1,4 +1,5 @@
 # python-distilled-example
+![title](./img/title.jpeg)
 [Python Distilled](https://product.kyobobook.co.kr/detail/S000002277026)(저자 David M. Beazley)를 번역한 <br> 
 [파이써닉한 파이썬을 익히는 간결한 안내서](https://product.kyobobook.co.kr/detail/S000061584147) (번역 송현제)의 도서를 읽고 공부 겸 <br>
 저장을 하기 위해 만든 Repository입니다.
@@ -20,3 +21,6 @@
 - [ ] 8 - 모듈과 패키지
 - [ ] 9 - 입력과 출력
 - [ ] 10 - 내장 함수와 표준 라이브러리
+
+## 나중에 Question
+- 40p 각주 `하위 호완성`
